@@ -10,7 +10,7 @@ $ apt update -y && apt upgrade -y
 $ pkg install git
 $ git clone https://github.com/Whomrx666/Xddos
 $ cd Xddos
-$ python Xddos.py
+$ python2 Xddos.py
 ```
 
 ## Instructions
