@@ -2,7 +2,7 @@
 ![Xdorking preview](Xddos.png)
 
 ## introduction
-This tool is a DDOS tool {denial-of-service} 6.5 mb per sec using IP address
+This tool is a DDOS tool {denial-of-service} send botnet 6.5 mb per sec using IP address
 
 ## Instalations
 ```
